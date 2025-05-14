@@ -1,0 +1,5 @@
+﻿  grafo.cpp
+  main.cpp
+C:\Users\PiporNet\Escritorio\Actividad 2 - CarCarBla\CarCarBla-v2\main.cpp(87,59): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  Generando código...
+  CarCarBla-v2.vcxproj -> C:\Users\PiporNet\Escritorio\Actividad 2 - CarCarBla\CarCarBla-v2\x64\Debug\CarCarBla-v2.exe
